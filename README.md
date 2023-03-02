@@ -1,11 +1,11 @@
 ### ⚠Art by arth_665⚠
 ### ⬇Opa! That's Me! I'am Trying to Make some Goods around Here!⬇
 ### ⚠Gimme knowledge⚠
-## Contatos:
 
+⚠I do Some Content on Twitch, if you have Interest on Games, you are totaly Welcome⚠
+## Contatos:
 <div>
 <a href="https://www.twitch.tv/FoxyNewGames" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/FoxyNewGames1.svg?style=social&label=Follow%20%40bukotsunikki)](https://twitter.com/FoxyNewGames1)
 </div>
 <!--
 **FoxyNewGames/FoxyNewGames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
