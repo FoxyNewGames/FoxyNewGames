@@ -1,5 +1,5 @@
-### ⚠Art by arth_665⚠⬇
-### Opa! That's Me! I'am Trying to Make some Goods around Here! 
+### ⚠Art by arth_665⚠
+### ⬇Opa! That's Me! I'am Trying to Make some Goods around Here!⬇
 ### ⚠Gimme knowledge⚠
 
 <!--
