@@ -4,7 +4,7 @@
 <div>
 <a href="https://www.twitch.tv/FoxyNewGames" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   
-### Here Some More Informations From Platform!S2
+### ⚠Here Some More Informations From Platform!⚠
 <div>
 <a href="https://github.com/FoxyNewGames">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FoxyNewGames&layout=compact&langs_count=7&theme=dracula"/>
