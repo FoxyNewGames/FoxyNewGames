@@ -6,7 +6,7 @@
 <a href="https://www.twitch.tv/FoxyNewGames" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </div>
 <!--
-**FoxyNewGames/FoxyNewGames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*******************FoxyNewGames/FoxyNewGames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
