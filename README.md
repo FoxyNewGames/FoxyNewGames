@@ -1,8 +1,7 @@
 ### ⚠Art by arth_665⚠
-### ⬇Opa! That's Me! I'am Trying to Make some Goods around Here!⬇
-### ⚠Gimme knowledge⚠
+### Opa! That's Me! I'am Trying to Make some Goods around Here!
 
-### ⚠I do Some Content on Twitch, if you have Interest on Games, you are totaly Welcome⚠
+### ⬇I do Some Content on Twitch, if you have Interest on Games, you are totaly Welcome⬇
 <div>
 <a href="https://www.twitch.tv/FoxyNewGames" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </div>
