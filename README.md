@@ -3,6 +3,7 @@
 ⬇I do Some Content on Twitch, if you have Interest on Games, you are totaly Welcome⬇
 <div>
 <a href="https://www.twitch.tv/FoxyNewGames" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  
 ### Here Some Informations!S2
 <div>
 <a href="https://github.com/FoxyNewGames">
