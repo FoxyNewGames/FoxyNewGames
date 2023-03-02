@@ -1,6 +1,6 @@
 ### ⚠Art by arth_665⚠⬇
 ### Opa! That's Me! I'am Trying to Make some Goods around Here! 
-### Gimme knowledge⬇
+### ⚠Gimme knowledge⚠
 
 <!--
 **FoxyNewGames/FoxyNewGames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
